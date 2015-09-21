@@ -1,0 +1,51 @@
+{"0": {
+  "value": "Бангкок, Таиланд",
+  "tokens": ["бангкок,", "таиланд"],
+  "datum": {
+    "iata": "BKK",
+    "name": "Бангкок, Таиланд",
+    "type": "city",
+    "city": "Бангкок",
+    "country": "Таиланд"
+  }
+}, "1": {
+  "value": "Москва, Россия",
+  "tokens": ["москва,", "россия"],
+  "datum": {
+    "iata": "MOW",
+    "name": "Москва, Россия",
+    "type": "city",
+    "city": "Москва",
+    "country": "Россия"
+  }
+}, "2": {
+  "value": "Пхукет, Таиланд",
+  "tokens": ["пхукет,", "таиланд"],
+  "datum": {
+    "iata": "HKT",
+    "name": "Пхукет, Таиланд",
+    "type": "city",
+    "city": "Пхукет",
+    "country": "Таиланд"
+  }
+}, "3": {
+  "value": "Don Muang, Таиланд",
+  "tokens": ["don", "muang,", "таиланд"],
+  "datum": {
+    "iata": "DMK",
+    "name": "Don Muang, Таиланд",
+    "type": "city",
+    "city": "Don Muang",
+    "country": "Таиланд"
+  }
+}, "4": {
+  "value": "Самуи, Таиланд",
+  "tokens": ["самуи,", "таиланд"],
+  "datum": {
+    "iata": "USM",
+    "name": "Самуи, Таиланд",
+    "type": "city",
+    "city": "Самуи",
+    "country": "Таиланд"
+  }
+}}
